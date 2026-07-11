@@ -1,5 +1,5 @@
 # Google-Cybersecurity-Project
-all the projects done during the certification.
+All the projects done during the certification.
 
 ## Professional Statement
 
